@@ -1,3 +1,8 @@
+/*
+David Rafael Arancibia Escobar
+Emmanuel Cortés Rosas
+Kevin German 
+*/
 int main(){
     int opc1=-1,opc2=-1;
     do{
